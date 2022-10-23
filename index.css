@@ -1,0 +1,94 @@
+.navDiv{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.navList{
+    list-style-type: none;
+    float:left;
+    border: black solid 1px;
+    margin: 5px 5px 5px 5px;
+    padding: 5px 5px 5px 5px;
+}
+.mainHr{
+    width: 65%;
+    height: 15%;
+    background-color: black;
+
+}
+.mainDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.inputDecoration{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 10px 10px 10px;
+}
+.inputDiv{
+    width: 50%;
+    height: 15%;
+}
+.controlSection{
+    border: black solid 1px;
+    width: 550px;
+    height: 650px;
+    margin: 15px 40px 10px 0px;
+}
+.sectionSide{
+    width: 550px;
+    height: 650px;
+    border: black solid 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.mapAndExtra{
+    width: 600px;
+    height: 650px;
+    border: black solid 1px;
+}
+.divMap{
+    width: 570px;
+    height: 470px;
+    border: black solid 1px;
+    margin: 10px 10px 10px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.divExtraInfo{
+    width: 570px;
+    height: 140px;
+    border: black solid 1px;
+    margin: 10px 10px 10px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footerHr{
+    width: 65%;
+    height: 15%;
+    background-color: black;
+}
+.footerDiv{
+    width: auto;
+    height: 100px;
+    background-color: grey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.fDivP{
+    color:black;
+    font-size: medium;
+    font-weight: bold;
+    font-family: monospace;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
