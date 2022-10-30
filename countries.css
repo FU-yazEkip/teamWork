@@ -1,0 +1,13 @@
+svg path{
+    fill: rgb(0, 0, 0);
+}
+svg path:hover{
+    fill: #C4DFE6;
+    cursor: pointer;
+}
+#TR:hover{
+    fill: red;
+}
+#SY:hover{
+    fill: green;
+}
