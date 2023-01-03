@@ -1433,7 +1433,7 @@ loadData = document.getElementById("infoDiv");
 
     for(let i = 0; i < countries.length; ++i){
         if(input === countries[i].country){
-            loadData.innerHTML = "Country: " + countries[i].country + "<br>"+
+            loadData.innerHTML = "Ülke: " + countries[i].country + "<br>"+
             "edgar2020: " + countries[i].edgar2020 + "<br>"+
             "percGlobal_edgar2020: " + countries[i].percGlobal_edgar2020 + "<br>"+
             "bp2021: " + countries[i].bp2021;
